@@ -1,0 +1,50 @@
+{
+  "name": "koappcalculator",
+  "identifier": "koappcalculator",
+  "description": {
+    "es-ES": "",
+    "en-US": ""
+  },
+  "documentation": {
+    "es-ES": "modules/koappcalculator/docs/es_ES.md",
+    "en-US": "modules/koappcalculator/docs/en_US.md"
+  },
+  "descriptionShort": {
+    "es-ES": "",
+    "en-US": ""
+  },
+  "icon": "room",
+  "type": "A",
+  "version": "0.0.1",
+  "author": "King of App",
+  "category": ["others"],
+  "price": 0,
+  "subscription": false,
+  "canContain": false,
+  "platforms": [
+    "android",
+    "ios",
+    "windows"
+  ],
+  "view": "modules/koappcalculator/index.html",
+  "files": [
+    "modules/koappcalculator/controller.js", "modules/koappcalculator/style.html"
+  ],
+  "scope": {"demoKey": "demo text"},
+  "libs": [],
+  "config": [],
+  "showOn": {
+    "menu": true,
+    "market": true,
+    "dragDrop": true
+  },
+  "images": {
+    "list": "modules/koappcalculator/images/list.png",
+    "screenshots": [
+      "modules/koappcalculator/images/screenshot01.png"
+    ],
+    "popover": "modules/koappcalculator/images/popover.png",
+    "banner": "modules/koappcalculator/images/banner.png",
+    "logo": "modules/koappcalculator/images/logo.png"
+  }
+}
